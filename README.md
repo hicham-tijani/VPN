@@ -1,4 +1,19 @@
 
-https://github.com/hicham-tijani/VPN/assets/99076537/0c4c07f2-d314-4f46-b7d3-8f37a71ab495
-Uploading VPN.mp4…
+## VPN 🔓🌎
+
+in this project I used the following technologies
+
+- Typescript
+- Ionicons icon
+- NordVPN API
+- React Native Navigation to navigate between screens ✋🏽
+- Implemented Redux and Expo 📥
+
+
+## 
+
+https://github.com/hicham-tijani/VPN/assets/99076537/d4a079f9-71fb-4dae-a523-864aa3aeccc4
+
+
+
 
