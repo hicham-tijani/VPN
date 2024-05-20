@@ -9,10 +9,15 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~50.0.17",
-    "expo-status-bar": "~1.11.1",
+    "@types/react": "~18.2.45",
+    "axios": "^1.6.8",
+    "expo": "~51.0.6",
+    "expo-status-bar": "~1.12.1",
+    "ionicons": "^7.4.0",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-ionicons": "^4.2.1",
+    "react-native": "0.74.1",
+    "typescript": "~5.3.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
